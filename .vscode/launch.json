@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ValerieFinanzasApplication<valerie_finanzas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.finanzas.valerie_finanzas.ValerieFinanzasApplication",
+            "projectName": "valerie_finanzas",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
